@@ -1,0 +1,31 @@
+{
+  "name": "api-tests",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Sanja Dinic",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.4",
+    "chai-as-promised": "^7.1.1",
+    "chai-sorted": "^0.2.0",
+    "faker": "^5.5.3",
+    "npm": "^9.6.2"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.18.10",
+    "@babel/core": "^7.18.10",
+    "@babel/node": "^7.18.10",
+    "@babel/preset-env": "^7.18.10",
+    "@babel/register": "^7.18.9",
+    "@types/faker": "^6.6.9",
+    "chai": "^4.3.6",
+    "mocha": "^10.0.0"
+  }
+}
