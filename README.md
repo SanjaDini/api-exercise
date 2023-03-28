@@ -4,11 +4,12 @@
 
 ```shell
 npm
+
 ```
 
 ## Step-by-step install
 
-- Clone team-sava folder
+- Clone folder
 - run `npm i` command
 
 ## Command for starting tests
