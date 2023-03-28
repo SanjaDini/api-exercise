@@ -8,7 +8,7 @@ npm
 
 ## Step-by-step install
 
-- Navigate to api-tests folder
+- Clone team-sava folder
 - run `npm i` command
 
 ## Command for starting tests
