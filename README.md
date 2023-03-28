@@ -14,8 +14,10 @@ npm
 
 ## Command for starting tests
 
+```sh
 For axios run `npm run test`
 For cypress api plugin run `npm run cy:run`
+```
 
 ## Visual Studio Code setup
 
